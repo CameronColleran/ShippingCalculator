@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Versandkostenrechner</string>
+    <string name="added_cost">Zusatzkosten:</string>
+    <string name="base_cost">Grundkosten:</string>
+    <string name="enter_weight">Gewicht eingeben...</string>
+    <string name="in_ounces">(in Unzen)</string>
+    <string name="total_shipping_cost">Gesamtversandkosten:</string>
+    <string name="weight_of_the_package">Gewicht des Pakets</string>
+</resources>
